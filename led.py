@@ -1,4 +1,4 @@
-mport board
+port board
 import neopixel
 import time
 pixels = neopixel.NeoPixel(board.D18, 120, brightness=1)
